@@ -16,9 +16,8 @@ A custom Minecraft mod designed to manipulate and control gambling-style mechani
 📦 Installation
 Install Minecraft Forge / Fabric (depending on your build)
 
-Download the latest release from the Releases
- page
+Download the latest release
  
 Drop the .jar file into your mods folder
 
-Launch Minecraft
+Launch Minecraft!
