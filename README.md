@@ -4,7 +4,7 @@ A custom Minecraft mod designed to manipulate and control gambling-style mechani
 
 ⚠️ Disclaimer: This mod is intended for educational, testing, or private server use only. Do not use it to deceive players or exploit public servers.
 
-✨ Features
+**✨ Features**
 🎲 Control RNG outcomes for gambling systems
 
 ⚙️ Adjustable win/loss probabilities
@@ -15,7 +15,7 @@ A custom Minecraft mod designed to manipulate and control gambling-style mechani
 
 📊 Debug tools for testing odds and outcomes
 
-📦 Installation
+**📦 Installation**
 Install Minecraft Fabric (depending on your build)
 
 Download the latest release
