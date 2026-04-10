@@ -1,5 +1,7 @@
 A custom Minecraft mod designed to manipulate and control gambling-style mechanics in-game. Built for experimentation, testing, and controlled environments.
 
+🚨(YOU NEED FABRIC INSTALLED!)🚨
+
 ⚠️ Disclaimer: This mod is intended for educational, testing, or private server use only. Do not use it to deceive players or exploit public servers.
 
 ✨ Features
@@ -14,7 +16,7 @@ A custom Minecraft mod designed to manipulate and control gambling-style mechani
 📊 Debug tools for testing odds and outcomes
 
 📦 Installation
-Install Minecraft Forge / Fabric (depending on your build)
+Install Minecraft Fabric (depending on your build)
 
 Download the latest release
  
